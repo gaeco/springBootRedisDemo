@@ -1,0 +1,5 @@
+spring:
+  redis:
+#    host: db2.gaeco.net
+    host: localhost
+    port: 6379
