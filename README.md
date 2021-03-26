@@ -22,3 +22,9 @@ sudo apt-get install redis-tool
 # ping to server
 redis-cli -h localhost -p 6379 ping
 ```
+
+### Sample Code
+ * Groovy : net.gaeco.redisdemo.controller.RediController
+
+### Test URL
+* Redis String 테스트 : http://localhost:8080/redis/string
