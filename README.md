@@ -1,4 +1,4 @@
-# Redist & Spring Boot sample
+# Redis & Spring Boot sample
 
 ### 프로젝트 구성
 
@@ -24,7 +24,7 @@ redis-cli -h localhost -p 6379 ping
 ```
 
 ### Sample Code
- * Groovy : net.gaeco.redisdemo.controller.RediController
+ * Groovy : net.gaeco.redisdemo.controller.RedisController
 
 ### Test URL
 * Redis String 테스트 : http://localhost:8080/redis/string
