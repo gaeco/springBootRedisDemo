@@ -1,5 +1,5 @@
 spring:
   redis:
-#    host: db2.gaeco.net
-    host: localhost
+    host: rds.mydomain.com
     port: 6379
+    password: mypassword
